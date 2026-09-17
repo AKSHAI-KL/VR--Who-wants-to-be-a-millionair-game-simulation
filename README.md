@@ -181,3 +181,6 @@ src/
   button is automatically disabled and desktop preview is offered instead.
 - Everything renders via a handful of lights and no real-time shadow maps,
   by design, to keep frame rate stable in VR.
+
+# VR--Who-wants-to-be-a-millionair-game-simulation
+VR group project- semester 5
